@@ -70,8 +70,7 @@ LibraryItem{date=2023-01-01, title='Java Programming', author='Ajayi Opeyemi'}}
 ## Installation and Setup
 
 1. Clone the repository or copy the code into your Java IDE.
-2. Ensure that your development environment supports Java 8 or higher (for `Predicate` and lambda expressions).
-3. Compile and run the `Library` class.
+2. Compile and run the `Library` class.
 
 ## Author
 - **Ajayi Opeyemi**
