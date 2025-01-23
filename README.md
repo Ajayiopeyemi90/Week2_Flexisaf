@@ -73,13 +73,6 @@ LibraryItem{date=2023-01-01, title='Java Programming', author='Ajayi Opeyemi'}}
 2. Ensure that your development environment supports Java 8 or higher (for `Predicate` and lambda expressions).
 3. Compile and run the `Library` class.
 
-## Customization
-- You can modify the `Library` class to include additional attributes or methods.
-- Change the generic types `T`, `K`, and `E` to match your specific requirements.
-
-## License
-This project is open-source and available for educational purposes. Feel free to modify and reuse the code.
-
 ## Author
 - **Ajayi Opeyemi**
 
