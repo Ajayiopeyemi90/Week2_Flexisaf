@@ -1,6 +1,6 @@
 # Week2_Flexisaf
 
-# Library Program with Generic Types
+# Library Program
 
 This project implements a generic `Library` class in Java to manage a collection of library items. Each item consists of three attributes: `Date`, `Title`, and `Author`. The program demonstrates the usage of generics, iterators, and functional programming concepts like `Predicate` to handle dynamic data and perform operations on the library collection.
 
